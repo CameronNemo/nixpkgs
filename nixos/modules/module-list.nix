@@ -676,6 +676,7 @@
   ./services/networking/ncdns.nix
   ./services/networking/nomad.nix
   ./services/networking/ejabberd.nix
+  ./services/networking/envoy.nix
   ./services/networking/epmd.nix
   ./services/networking/ergo.nix
   ./services/networking/eternal-terminal.nix
